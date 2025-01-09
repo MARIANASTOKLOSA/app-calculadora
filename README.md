@@ -1,6 +1,6 @@
-# myapp
+# app calculadora
 
-A new Flutter project.
+Sistema desenvolvido como atividade vinculada ao Módulo 2 do curso desenvolvimento WEB.
 
 ## Getting Started
 
